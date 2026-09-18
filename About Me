@@ -1,0 +1,103 @@
+<!DOCTYPE html> 
+
+<html lang="en"> 
+
+<head> 
+
+<meta charset="UTF-8"> 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<title>About Me Chinatsu Shinomiya</title> 
+
+<style>
+    body{
+        background-color: pink;
+        font-family: 'Times New Roman', serif;
+      
+    }
+
+    h1{
+        color: rgb(128, 0, 0);
+        text-align: center;
+        font-style: italic;
+    }
+
+    h2{
+        color: rgb(128, 0, 0);
+    }
+
+    ul{
+        list-style-type: square;
+        font-family: 'arial', sans-serif;
+    }
+
+</style>
+
+</head> 
+
+<body>  
+
+ 
+<h1> Chinatsu Shinomiya</h1>
+<h2>Aspiring Graphic Designer and Illustrator</h2> 
+
+<p> My name is Chinatsu Shinomiya, but most people can't seem to pronounce my name, so you can call me Chi.</p> 
+
+ 
+
+<img src="Chinatsu_Shinomiya_image.png" alt="Chinatsu_Shinomiya_image"> 
+
+ 
+
+<p> I am a creative soul who has been making art ever since I could hold a pencil. I am a full time student at St. Clair College studying to be a Graphic Designer.  
+
+When I am not at school or work, you could probably find me wandering around Windsor with my DSLR camera, capturing moments of beauty in the mundane. </p> 
+
+ 
+
+ 
+
+<h2> Things I like</h2> 
+
+<ul> 
+
+<li>Cats</li> 
+
+<li>Anime</li> 
+
+<li>J-pop music</li> 
+
+<li>Photography</li> 
+
+<li>Sketching and journaling</li> 
+
+</ul> 
+
+ 
+
+ 
+
+<h2>Things I dislike</h2> 
+
+ 
+
+<ul> 
+
+<li>AI slop</li> 
+
+<li>Mushrooms</li> 
+
+<li>Olives</li> 
+
+<li>Reckless drivers</li> 
+
+<li>Climate change</li> 
+
+</ul> 
+
+</body> 
+
+</html> 
+
+ 
